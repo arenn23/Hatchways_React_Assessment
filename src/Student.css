@@ -1,0 +1,16 @@
+.tag-container {
+  display: flex;
+  flex-direction: flex-start;
+  flex-wrap: wrap;
+}
+
+.tag {
+  padding: 8px;
+  width: fit-content;
+  background-color: grey;
+  border-radius: 4px;
+  margin-right: 1px;
+  text-align: center;
+  margin-top: 10px;
+  font-family: "Raleway", sans-serif;
+}
